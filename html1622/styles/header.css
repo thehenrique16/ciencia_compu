@@ -11,7 +11,7 @@
  margin: 1cqi;
 }
 
-.logoripo{
+.logotipo{
   width: 60px;
   padding: 5px;
   margin: 05px;
@@ -33,6 +33,7 @@
  background-image: linear-gradient(to bottom,#adca5d);
 }
 
+ /*formata o botão verde para mudar de cor o texto e colocar sombra quaqndo o mouse passar encima*/   
 .botao_login:hover{
  background-color: white;
  color: black;
@@ -49,9 +50,20 @@
    
 }
  .titulo_smart{
-
-
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 30px;
  }
+  .botao_login{
+   
+    font-size: 60px;
+    margin: 10px 60px;
 
 
-}
+  }
+   .logotipo{
+     width: 120px;
+     padding: 5px;
+     margin: 05px;
+   }
+     
+ }
