@@ -1,0 +1,14 @@
+ body{
+  display: block;
+align-items: center;
+ }
+
+ img{
+  width: 50%;
+  height: auto;
+  padding: 20%;
+
+ }
+ .texto_informativo{
+  font-size: 40px;
+ }
