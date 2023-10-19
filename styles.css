@@ -1,0 +1,10 @@
+@import url(styles/header.css);
+@import url(styles/resset.css);
+@import url(styles/footer.css);
+@import url(styles/principal.css);
+
+
+body{
+  background-color: rgb(205, 223, 255)
+
+}
