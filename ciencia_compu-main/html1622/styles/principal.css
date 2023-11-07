@@ -1,0 +1,18 @@
+ body{
+  display: block;
+align-items: center;
+ }
+
+ img{
+  width: 50%;
+  height: auto;
+  
+
+ }
+ .texto_informativo{
+  font-size: 40px;
+ }
+ .container{
+  display: flex;
+  align-items: center; 
+ }
