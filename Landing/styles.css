@@ -1,0 +1,19 @@
+body{
+   background-color: rgb(54, 119, 175);
+color: aqua;
+}
+
+header{
+ background-color: rgb(167, 139, 243);
+
+}
+
+.imagemAçaí{
+ border: 2px;
+ border-color: azure;
+ margin: 10px;
+}
+
+.formulario{
+    text-align: center;
+}
