@@ -1,19 +1,32 @@
-body{
-   background-color: rgb(54, 119, 175);
-color: aqua;
+.body{
+background-color: rgb(248, 247, 247);
+color: rgb(240, 245, 245); 
+align-items: center;
+text-align: center;
+position: center;
 }
 
-header{
- background-color: rgb(167, 139, 243);
+.header{
+ background-color: rgb(2, 2, 2);
+ align-items: center;
+ text-align: center;
+ position: center;
+ position: absolute;
+}
+
+.açaí{
+  background-image: url(Açaí.jpg);
+   height: 100px;
+   background-position: center;
+   background-size: cover;
 
 }
 
-.imagemAçaí{
- border: 2px;
- border-color: azure;
- margin: 10px;
-}
-
-.formulario{
+.form{
     text-align: center;
+    align-items: center;
+    position: absolute;
+    align-content: center;
+    
 }
+
