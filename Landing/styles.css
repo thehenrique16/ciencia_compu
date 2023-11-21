@@ -12,6 +12,9 @@ position: center;
  text-align: center;
  position: center;
  position: absolute;
+ align-self: center;
+font-size: smaller;
+ text-align-last: justify;
 }
 
 .açaí{
@@ -22,9 +25,20 @@ position: center;
 
 }
 
-.form{
-    text-align: center;
-    align-items: center;
-    position: absolute;
-    align-content: center;
+.form-container{
+  display: flex;
+  justify-content:right;
+
+}
+
+.form-container form{
+  width: 25%;
+
+
+
+}
+
+.header{
+
+
 }
